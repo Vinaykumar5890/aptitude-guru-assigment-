@@ -1,0 +1,29 @@
+.schedule {
+  background-color: #ffffff;
+  padding: 20px;
+  height: 70vh;
+  width: 100vw;
+  overflow-y: scroll;
+}
+
+.schedule ul {
+  list-style: none;
+  padding: 0;
+}
+
+.schedule ul li {
+  margin: 10px 0;
+}
+.scheduleHeading {
+  color: silver;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  text-decoration: underline;
+}
+.scheduleparagraph {
+  color: #000000;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
